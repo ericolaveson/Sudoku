@@ -3,9 +3,6 @@
  * Name            : Eric Olaveson
  * Login           : cs11fhx
  * Date            : November 27, 2013
- * File            : CS11Turtle_Threaded.java
- * Sources or Help : -> http://cseweb.ucsd.edu/~ricko/CSE11/PA9.pdf
- *                   -> Java An Eventful Approach (Bruce)
  *
  * This program will encode the logic for a sudoku solver into conjunctive
  *    normal form (CNF) boolean statements. These will then be used as an
