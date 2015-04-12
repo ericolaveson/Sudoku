@@ -1,7 +1,6 @@
 /*
 /******************************************************************************
  * Name            : Eric Olaveson
- * Login           : cs11fhx
  * Date            : November 27, 2013
  *
  * This program will encode the logic for a sudoku solver into conjunctive
