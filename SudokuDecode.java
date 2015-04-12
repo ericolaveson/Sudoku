@@ -3,9 +3,6 @@
  * Name            : Eric Olaveson
  * Login           : cs11fhx
  * Date            : November 27, 2013
- * File            : CS11Turtle_Threaded.java
- * Sources or Help : -> http://cseweb.ucsd.edu/~ricko/CSE11/PA9.pdf
- *                   -> Java An Eventful Approach (Bruce)
  *
  * This program will fun a java application that will read cnf variables from
  *   a file and decode it into a readable matrix. This matrix represents
