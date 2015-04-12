@@ -1,7 +1,6 @@
 /*
 /******************************************************************************
  * Name            : Eric Olaveson
- * Login           : cs11fhx
  * Date            : November 27, 2013
  *
  * This program will fun a java application that will read cnf variables from
