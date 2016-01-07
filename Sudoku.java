@@ -7,7 +7,6 @@
  *    normal form (CNF) boolean statements. These will then be used as an
  *    input file for the minisat solver.
  *****************************************************************************/
-//derp
 import java.io.*;
 import java.util.ArrayList;
 
